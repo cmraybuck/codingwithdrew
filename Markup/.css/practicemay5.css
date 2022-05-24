@@ -1,0 +1,13 @@
+body {
+    font-family: 'Roboto', sans-serif; font-size: large; background-color: white; 
+}
+
+#MJJ {
+    text-align: center; font-size: xxx-large; 
+}
+
+#jslogo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

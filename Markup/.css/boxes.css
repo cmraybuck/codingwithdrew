@@ -1,0 +1,31 @@
+*{
+    background-color: blueviolet;
+    border-width: 1px;
+    border-color: aqua;
+    border-style: dashed;
+    font-size: 12pt;
+    font-weight: bold;
+    /* font-style: italic; */
+    font-family: 'Tapestry', cursive;
+}
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    font-size: 4rem;
+    margin: 10px;
+    /* padding: 10px; */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100%;
+}
+
+.row{
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}

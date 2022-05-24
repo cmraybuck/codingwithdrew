@@ -1,0 +1,39 @@
+*{
+    background-color: pink;
+}
+
+#title {
+    display: flex;
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#p1 {
+    display: flex;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+
+#markdown-img {
+    display: flex;
+    justify-content: center;
+}
+
+#mdh {
+    display: flex;
+    justify-content: space-between;
+    color: red;
+    font-size: x-large;
+}
+
+#list {
+    color: red;
+    font-size: x-large;
+}
+
+#p2 {
+    display: flex;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    color: red;
+}
